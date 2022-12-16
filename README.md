@@ -1,1 +1,4 @@
-# SCV_vs_DOB
+# SCV vs DOB-SCV
+
+Synthetic datasets used in the comparative analysis of the DOB-SCV and SCV methods.
+
